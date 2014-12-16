@@ -1,0 +1,52 @@
+# Created by .gitignore support plugin (hsz.mobi)
+### Java template
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# eclipse files #
+######################
+.classpath
+.project
+
+# IDEA files #
+######################
+.idea
+atlassian-ide-plugin.xml
+**/*.iml
+
+# build files #
+######################
+build.properties
+build
+tmp
+target
+test-output
+
+# P4 config #
+.p4config
+
+# Vagrant #
+.vagrant
+.settings/
+*/.checkstyle
