@@ -41,7 +41,7 @@
   </dependencies>
 
   <build>
-    <finalName>hadoop-map-reduce-${project.version}-jar</finalName>
+    <finalName>hadoop-map-reduce-${project.version}</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
